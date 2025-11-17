@@ -24,13 +24,13 @@ Starting in Donzoko on Stepney Bank followed by one, two, or three more spots de
 <!-- <br> Arrival:  -->
 <!-- <br> Moving on: -->
 
-> ~ 22:20 -- [**Brinkburn**](https://maps.app.goo.gl/rqjkYwfeFGaH5UyaA)
+> ~ 22:45 -- [**Brinkburn**](https://maps.app.goo.gl/rqjkYwfeFGaH5UyaA)
 <!-- <del> > ~ 22:20 -- [**Brinkburn**](https://maps.app.goo.gl/rqjkYwfeFGaH5UyaA) </del> -->
 <!-- <br> ETA:  -->
 <!-- <br> Arrival:  -->
 <!-- <br> Moving on: -->
 
-> ~ 23:00 -- [**Ernest**](https://maps.app.goo.gl/WXSKwSeyP93Vk7PfA)
+> ~ 23:30 -- [**Ernest**](https://maps.app.goo.gl/WXSKwSeyP93Vk7PfA)
 <!-- > <del> ~ 23:00 -- [**Ernest**](https://maps.app.goo.gl/WXSKwSeyP93Vk7PfA) </del> -->
 <!-- <br> ETA:  -->
 <!-- <br> Arrival:  -->
