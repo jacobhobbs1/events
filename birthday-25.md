@@ -4,7 +4,7 @@ layout: default
 
 ![Image](./assets/images/36488C73-5F5C-46A2-9206-CA74EF2B04B3_1_105_c.jpeg)
 
-# The Big Two-Five
+# Beers for the Big Two-Five
 
 A series of stops in Ouseburn to celebrate.
 <br>
@@ -27,4 +27,4 @@ A fluid plan adjustable to the vibe.
 
 > ~ 22:40 -- [**Ernest**](https://maps.app.goo.gl/WXSKwSeyP93Vk7PfA)
 
-> ~~ ~ 22:40 -- [**Ernest**](https://maps.app.goo.gl/WXSKwSeyP93Vk7PfA) ~~
+> <del> ~ 22:40 -- [**Ernest**](https://maps.app.goo.gl/WXSKwSeyP93Vk7PfA) </del>
