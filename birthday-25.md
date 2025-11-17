@@ -2,9 +2,9 @@
 layout: default
 ---
 
-![alt text](/Users/jakehobbs/Documents/events/assets/images/B20B0954-9F92-4997-BD94-D791EDD694F9_1_105_c.jpeg "IMAGE1")
+<img style="width:350px;" src="./images/B20B0954-9F92-4997-BD94-D791EDD694F9_1_105_c.jpeg"/>
 
-<img style="width:350px;" src="./Users/jakehobbs/Documents/events/assets/images/B20B0954-9F92-4997-BD94-D791EDD694F9_1_105_c.jpeg"/>
+<img style="width:350px;" src="./images/blacktocat.png"/>
 
 # Header 1
 
