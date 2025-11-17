@@ -9,9 +9,12 @@ layout: default
 A series of stops in Ouseburn to celebrate.
 <br>
 A fluid plan adjustable to the vibe.
+<br>
 <br> x
 <br> y
 <br> z
+<br>
+<br> If you're arriving later, check back here for updates and live timings
 
 ## The Plan
 
