@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Branching](https://guides.github.com/activities/hello-world/3B7AD9BF-5348-4E19-ACCC-68C4D71D2198_1_105_c.jpeg)
+![alt text](/Users/jakehobbs/Documents/events/assets/images/3B7AD9BF-5348-4E19-ACCC-68C4D71D2198_1_105_c.jpeg "IMAGE1")
 
 # Header 1
 
