@@ -14,7 +14,7 @@ A series of stops in Ouseburn to celebrate
 ## The Plan
 
 > 20:00-21:00 -- **Donzoko** -- [here](https://maps.app.goo.gl/YdDYvQQiCL8UtkHt9)
-<!-- <br> La di da di da -->
+<br> *On the fly real time arrival*
 
 > 21:05-22:00 -- **The Ship** -- [here](https://maps.app.goo.gl/C4vVp6dNGqF1FsLp7)
 
