@@ -6,7 +6,9 @@ layout: default
 
 # Beers for the Big Two-Five
 
-A series of stops in Ouseburn to celebrate.
+A series of stops in Ouseburn to celebrate the frontal lobe snapping into place.
+<br>
+Starting in Donzoko on Stepney Bank followed by one two or three more spots depending on time, busyness, and contentedness.
 <br>
 A fluid plan adjustable to the vibe.
 <br>
