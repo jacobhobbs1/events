@@ -8,15 +8,9 @@ layout: default
 
 A series of stops in Ouseburn to celebrate the frontal lobe snapping into place.
 <br>
-Starting in Donzoko on Stepney Bank followed by one two or three more spots depending on time, busyness, and contentedness.
+Starting in Donzoko on Stepney Bank followed by one two or three more spots depending on time, busyness, and contentedness. A fluid plan adjustable to the vibe. Details below. 
 <br>
-A fluid plan adjustable to the vibe.
-<br>
-<br> x
-<br> y
-<br> z
-<br>
-<br> If you're arriving later, check back here for updates and live timings
+<br> If you're arriving later, check back here for updates and live(ish) timings
 
 ## The Plan
 
@@ -29,4 +23,4 @@ A fluid plan adjustable to the vibe.
 
 > ~ 22:40 -- [**Ernest**](https://maps.app.goo.gl/WXSKwSeyP93Vk7PfA)
 
-> <del> ~ 22:40 -- [**Ernest**](https://maps.app.goo.gl/WXSKwSeyP93Vk7PfA) </del>
+<!-- > <del> ~ 22:40 -- [**Ernest**](https://maps.app.goo.gl/WXSKwSeyP93Vk7PfA) </del> -->
