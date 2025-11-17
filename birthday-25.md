@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<img style="width:350px;" src="./assets/images/B20B0954-9F92-4997-BD94-D791EDD694F9_1_105_c.jpeg"/>
-
 ![Image](./assets/images/B20B0954-9F92-4997-BD94-D791EDD694F9_1_105_c.jpeg)
 
 
