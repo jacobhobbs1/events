@@ -2,7 +2,9 @@
 layout: default
 ---
 
-<!-- ![alt text](/Users/jakehobbs/Documents/events/assets/images/3B7AD9BF-5348-4E19-ACCC-68C4D71D2198_1_105_c.jpeg "IMAGE1") -->
+![alt text](/Users/jakehobbs/Documents/events/assets/images/B20B0954-9F92-4997-BD94-D791EDD694F9_1_105_c.jpeg "IMAGE1")
+
+<img style="width:350px;" src="./Users/jakehobbs/Documents/events/assets/images/B20B0954-9F92-4997-BD94-D791EDD694F9_1_105_c.jpeg"/>
 
 # Header 1
 

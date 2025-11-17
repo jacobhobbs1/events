@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./birthday-25.md).
+[Link to another page](./birthday-25.html).
 
 There should be whitespace between paragraphs.
 
