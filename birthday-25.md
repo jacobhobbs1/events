@@ -15,12 +15,27 @@ Starting in Donzoko on Stepney Bank followed by one two or three more spots depe
 ## The Plan
 
 > 20:30-21:30 -- [**Donzoko**](https://maps.app.goo.gl/YdDYvQQiCL8UtkHt9)
-<!-- <br> La di da di da -->
+<br> ETA: 
+<br> Arrival: 
+<br> Moving on:
+<br>  
 
 > ~ 21:40 -- [**The Cumberland Arms**](https://maps.app.goo.gl/FQuoC1HfPUB7LEAUA)
+<br> ETA: 
+<br> Arrival: 
+<br> Moving on:
+<br> 
 
 > ~ 22:30 -- [**Two by Two**](https://maps.app.goo.gl/DTvEd2XQXtZZrxm47)
+<br> ETA: 
+<br> Arrival: 
+<br> Moving on:
+<br> 
 
 > ~ 22:40 -- [**Ernest**](https://maps.app.goo.gl/WXSKwSeyP93Vk7PfA)
-
-<!-- > <del> ~ 22:40 -- [**Ernest**](https://maps.app.goo.gl/WXSKwSeyP93Vk7PfA) </del> -->
+<br>
+> <del> ~ 22:40 -- [**Ernest**](https://maps.app.goo.gl/WXSKwSeyP93Vk7PfA) </del>
+<br> ETA: 
+<br> Arrival: 
+<br> Moving on:
+<br> 
