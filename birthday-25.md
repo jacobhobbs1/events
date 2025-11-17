@@ -18,15 +18,13 @@ A fluid plan adjustable to the vibe.
 
 ## The Plan
 
-> 20:00-21:00 -- [**Donzoko**](https://maps.app.goo.gl/YdDYvQQiCL8UtkHt9)
+> 20:30-21:30 -- [**Donzoko**](https://maps.app.goo.gl/YdDYvQQiCL8UtkHt9)
 <!-- <br> La di da di da -->
 
-> 21:05-22:00 -- [**The Ship**](https://maps.app.goo.gl/C4vVp6dNGqF1FsLp7)
+> ~ 21:40 -- [**The Cumberland Arms**](https://maps.app.goo.gl/FQuoC1HfPUB7LEAUA)
 
-> 21:05-22:00 -- [**The Cumberland Arms**](https://maps.app.goo.gl/FQuoC1HfPUB7LEAUA)
+> ~ 22:30 -- [**Two by Two**](https://maps.app.goo.gl/DTvEd2XQXtZZrxm47)
 
-> 21:05-22:00 -- [**Two by Two**](https://maps.app.goo.gl/DTvEd2XQXtZZrxm47)
+> ~ 22:40 -- [**Ernest**](https://maps.app.goo.gl/WXSKwSeyP93Vk7PfA)
 
-> 21:05-22:00 -- [**Free Trade Inn**](https://maps.app.goo.gl/shjRnsn6511D3wLn8)
-
-> 21:05-22:00 -- [**Full Circle Brew**](https://maps.app.goo.gl/wzkwycvgJCWbQTm38)
+> ~~ ~ 22:40 -- [**Ernest**](https://maps.app.goo.gl/WXSKwSeyP93Vk7PfA) ~~
