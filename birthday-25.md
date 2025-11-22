@@ -14,7 +14,7 @@ Starting in Donzoko on Stepney Bank followed by one, two, or three more spots de
 
 ## The Plan
 
->> 20:00 -- [**Donzoko**](https://maps.app.goo.gl/YdDYvQQiCL8UtkHt9)
+> 20:00 -- [**Donzoko**](https://maps.app.goo.gl/YdDYvQQiCL8UtkHt9)
 <!-- <br> ETA:  -->
 <!-- <br> Arrival:  -->
 <!-- <br> Moving on: -->
